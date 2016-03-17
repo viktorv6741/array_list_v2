@@ -60,7 +60,7 @@ public class MyArray<T extends Number> implements Comparable<MyArray> {
         currentPosition = newLength;
     }
 
-    //getMin & getMath
+    //getMin & getMax
 /////////////////////////////////////////////////////////////////////
 
     public <T extends Comparable> T getMin() {
